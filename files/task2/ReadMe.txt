@@ -1,0 +1,1 @@
+yelp_geospatial_business.json -- Input file for creating geospatial index on mongoDB

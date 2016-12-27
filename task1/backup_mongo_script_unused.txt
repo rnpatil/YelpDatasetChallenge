@@ -1,0 +1,5 @@
+mongoimport --db test --collection business --drop --file "C:/Users/hp/Desktop/Fall 2016/Z534/projects/yelp_dataset_challenge_academic_dataset/bck/yelp_academic_dataset_business.json"
+mongoimport --db test --collection checkin --drop --file "C:/Users/hp/Desktop/Fall 2016/Z534/projects/yelp_dataset_challenge_academic_dataset/bck/yelp_academic_dataset_checkin.json"
+mongoimport --db test --collection review --drop --file "C:/Users/hp/Desktop/Fall 2016/Z534/projects/yelp_dataset_challenge_academic_dataset/bck/yelp_academic_dataset_review.json"
+mongoimport --db test --collection tip --drop --file "C:/Users/hp/Desktop/Fall 2016/Z534/projects/yelp_dataset_challenge_academic_dataset/bck/yelp_academic_dataset_tip.json"
+mongoimport --db test --collection user --drop --file "C:/Users/hp/Desktop/Fall 2016/Z534/projects/yelp_dataset_challenge_academic_dataset/bck/yelp_academic_dataset_user.json"

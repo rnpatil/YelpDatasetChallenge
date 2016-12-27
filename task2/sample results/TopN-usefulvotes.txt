@@ -1,0 +1,30 @@
+{Rank : 1, BusinessName: Grimaldi's Pizzeria, Business_id : r4AG1WXCRWkZKQctrcy9FA, Review Count: 316, Popularity Score : 133.3074216365814, Original starRating : 4.0 }
+{Rank : 2, BusinessName: Tru Burger Co., Business_id : 5_tsOGJQDDl9iKOr8K79Rw, Review Count: 222, Popularity Score : 93.9739543914795, Original starRating : 4.0 }
+{Rank : 3, BusinessName: Fleming's Prime Steakhouse & Wine Bar, Business_id : JM6X0PJBcMkAjOuZqMaZsQ, Review Count: 206, Popularity Score : 87.1763149499893, Original starRating : 4.0 }
+{Rank : 4, BusinessName: University of Phoenix Stadium, Business_id : V-mvhyX6lxu5l2euYatlrQ, Review Count: 201, Popularity Score : 84.9823714017868, Original starRating : 4.0 }
+{Rank : 5, BusinessName: Gila River Arena, Business_id : F0ZXhPJD8yNS3xzTxsichg, Review Count: 152, Popularity Score : 64.37721371650696, Original starRating : 4.0 }
+{Rank : 6, BusinessName: Fractured Prune Doughnuts, Business_id : gH1bhhbV8MeRc8A2V3D0GQ, Review Count: 135, Popularity Score : 57.201159381866454, Original starRating : 4.0 }
+{Rank : 7, BusinessName: Opa Life Greek Cafe, Business_id : fPc8Zt3jw-XNriLpweadjQ, Review Count: 116, Popularity Score : 49.344744563102715, Original starRating : 4.0 }
+{Rank : 8, BusinessName: Renaissance Glendale Hotel & Spa, Business_id : 2Z35_AsU6qWU0YaOftjLVA, Review Count: 103, Popularity Score : 43.79443697929382, Original starRating : 4.0 }
+{Rank : 9, BusinessName: Fired Pie, Business_id : Gksvfg_cpOhqTeh6WA1N8g, Review Count: 91, Popularity Score : 38.82235612869262, Original starRating : 4.0 }
+{Rank : 10, BusinessName: Harkins Theatres Park West 14, Business_id : bILRipOyHKDZjCaQXpw0SQ, Review Count: 67, Popularity Score : 35.93492946624755, Original starRating : 4.5 }
+{Rank : 11, BusinessName: It's A Grind Coffee House, Business_id : gM0MhFQj4CI3-xT7UIUURw, Review Count: 69, Popularity Score : 29.547729837894437, Original starRating : 4.0 }
+{Rank : 12, BusinessName: Enjoy Sushi Café, Business_id : qPweoC5UlERfrZ4EhCS1Nw, Review Count: 52, Popularity Score : 28.000000047683713, Original starRating : 4.5 }
+{Rank : 13, BusinessName: In-N-Out Burger, Business_id : WAqACt7FfSFcJs-gqysIlQ, Review Count: 49, Popularity Score : 21.417599678039547, Original starRating : 4.0 }
+{Rank : 14, BusinessName: Fresh Healthy Cafe, Business_id : atoBBGiiE0uLH9B82XJeWw, Review Count: 44, Popularity Score : 19.42285678386688, Original starRating : 4.0 }
+{Rank : 15, BusinessName: Beach Club Cantina, Business_id : ksMGDW0FbPCX3tXXZ2_onA, Review Count: 43, Popularity Score : 18.632142293453217, Original starRating : 4.0 }
+{Rank : 16, BusinessName: Doughboy's Pizza, Business_id : uL1faPt6dsuOxUUE0yXZeA, Review Count: 40, Popularity Score : 17.54000000953674, Original starRating : 4.0 }
+{Rank : 17, BusinessName: Haggard Chiropractic, Business_id : LyF-0RvQxKPPX7PGdjJ72w, Review Count: 16, Popularity Score : 16.000000286102292, Original starRating : 5.0 }
+{Rank : 18, BusinessName: SNIP Barber Shop, Business_id : AX_uezeXP-0f-fk0E9kU7g, Review Count: 16, Popularity Score : 15.960000252723692, Original starRating : 5.0 }
+{Rank : 19, BusinessName: Massage Envy - Peoria - Park West, Business_id : txsxisc36JMQ3rA1dAeibA, Review Count: 34, Popularity Score : 14.695999765396117, Original starRating : 4.0 }
+{Rank : 20, BusinessName: Shenanigans At the Salon, Business_id : FnYbp5438RXcwDVPlECiMg, Review Count: 9, Popularity Score : 13.859999465942382, Original starRating : 5.0 }
+{Rank : 21, BusinessName: Vape Shop AZ, Business_id : 9RLgi59D34pBIiZKocJwHg, Review Count: 9, Popularity Score : 13.859999465942382, Original starRating : 5.0 }
+{Rank : 22, BusinessName: Celebrity Tux and Tails, Business_id : 1rorT-in_iJe25CHoW445Q, Review Count: 9, Popularity Score : 13.859999465942382, Original starRating : 5.0 }
+{Rank : 23, BusinessName: The Vision Center of West Phoenix, Business_id : bCqTMIPvEYUD33yPoMdjwA, Review Count: 25, Popularity Score : 13.84500002861023, Original starRating : 4.5 }
+{Rank : 24, BusinessName: Shave & Blade Barbershop, Business_id : x6tnf5IVxtbBO7bIi2kWnQ, Review Count: 10, Popularity Score : 13.660000014305114, Original starRating : 5.0 }
+{Rank : 25, BusinessName: Hampton Inn & Suites Phoenix Glendale/Westgate City Center, Business_id : y_GScq9tMmspo0UA4RPjPA, Review Count: 31, Popularity Score : 13.637143158912657, Original starRating : 4.0 }
+{Rank : 26, BusinessName: Staybridge Suites Phoenix-Glendale, Business_id : 5Rdw7dO1NUjSBALMyN8LTQ, Review Count: 28, Popularity Score : 12.659999465942382, Original starRating : 4.0 }
+{Rank : 27, BusinessName: Mystic Nail & Spa, Business_id : VdE-3Gov-eyuJ2rLef7m_A, Review Count: 25, Popularity Score : 11.22000002861023, Original starRating : 4.0 }
+{Rank : 28, BusinessName: The Joint Chiropractic, Business_id : 6H2scccq8t-z-xoiBwgQzg, Review Count: 5, Popularity Score : 11.05499997138977, Original starRating : 5.0 }
+{Rank : 29, BusinessName: Dogs Etc, Business_id : 1uyO5N9eQOIsBRS4D5GTcA, Review Count: 7, Popularity Score : 10.779999732971191, Original starRating : 5.0 }
+{Rank : 30, BusinessName: Direct Tools Factory Outlet, Business_id : 1qedWtgdfyEDv4HHHQ8-1g, Review Count: 5, Popularity Score : 10.69500002861023, Original starRating : 5.0 }
